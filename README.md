@@ -4,3 +4,7 @@ In this project, analysis of many individual's personal belly button bacterial c
 ![Graph](https://raw.githubusercontent.com/damansandhu/Belly_Button_Diversity/main/static/images/Biodiversity_graph.png)
 
 Graph visualization was created with Plotly displaying the requency and type of bacteria that is present in the individual's belly button.
+## Changes in Chart
+* Background image was added to Jumbotron
+* Paragraph was added to describe project
+* Font text of paragraph was changed
